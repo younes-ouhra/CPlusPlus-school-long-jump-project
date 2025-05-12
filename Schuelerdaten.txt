@@ -1,0 +1,22 @@
+                 |   Vorname    |   Nachname    |   Geburtsdatum  | 1. Sprung (m) | 2. Sprung (m)
+---------------- | ------------ | ------------- | --------------- | ------------- | -------------
+Schueler1:          Lukas           Schneider       15.03.2007          3,45          3,60       
+Schueler2:          Leonie          Bauer           27.07.2006          4,20          4,10       
+Schueler3:          Jonas           Weber           05.11.2007          3,10          3,50       
+Schueler4:          Emma            Hoffmann        10.01.2008          2,95          3,00       
+Schueler5:          Paul            Wagner          18.06.2006          4,75          4,85       
+Schueler6:          Lina            Becker          22.09.2007          3,80          3,75       
+Schueler7:          Elias           Schäfer         30.04.2008          3,25          3,40       
+Schueler8:          Marie           Koch            08.12.2006          4,60          4,50       
+Schueler9:          Tim             Richter         03.02.2007          3,35          3,55       
+Schueler10:         Hannah          Klein           14.08.2008          2,90          3,05       
+Schueler11:         Noah            Wolf            25.05.2006          4,95          5,00       
+Schueler12:         Mia             Schröder        17.10.2007          3,15          3,20       
+Schueler13:         Ben             Neumann         09.01.2008          3,50          3,65       
+Schueler14:         Johanna         Schwarz         19.04.2006          4,05          4,10       
+Schueler15:         Maximilian      Zimmermann      02.07.2007          3,70          3,85       
+Schueler16:         Amelie          Braun           13.03.2008          3,00          2,95       
+Schueler17:         Fabian          Krüger          21.11.2006          4,10          4,35       
+Schueler18:         Laura           Hartmann        06.06.2007          3,90          3,80       
+Schueler19:         Niklas          Lange           11.09.2006          4,30          4,45       
+Schueler20:         Clara           Schmid          29.01.2007          2,85          3,10       
